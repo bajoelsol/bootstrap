@@ -1,0 +1,18 @@
+.navbar{
+
+    background-color:rgba(100, 148, 237, 0.39) !important;
+}
+
+.btn{
+    background-color: darkmagenta;
+}
+
+.d-block{
+    width: 50px;
+
+}
+
+.carousel-bit{
+    height: 50%;
+
+}
